@@ -1,6 +1,6 @@
 *This policy is a "living" document, and subject to refinement and expansion in the future.*
 
-The **iOS Developers Slack** should be a safe place for everybody regardless of
+**Pickaxe.club** (Minecraft server, Slack chat room) community should be a safe place for everybody regardless of
 
 - gender, gender identity or gender expression 
 - sexual orientation
@@ -10,7 +10,7 @@ The **iOS Developers Slack** should be a safe place for everybody regardless of
 - age
 - religion
 
-As someone who is part of this Slack, you agree that:
+As someone who is part of this community, you agree that:
 
 * We are collectively and individually committed to safety and inclusivity.
 * We have zero tolerance for abuse, harassment, or discrimination.
@@ -41,13 +41,11 @@ If you say something that is found offensive, and you are called out on it, letâ
 * Ask for tips / help with avoiding making the offense in the future.
 * Apologize and ask forgiveness.
 
-Failing to follow the community guidelines as described in this document carries consequences. For minor infractions, you may be temporarily suspended from the Slack. Upon repeat offenses, or if the community believes you are not acting in good faith, you may be asked to leave permanently.
+Failing to follow the community guidelines as described in this document carries consequences. For minor infractions, you may be temporarily suspended from the community. Upon repeat offenses, or if the community believes you are not acting in good faith, you may be asked to leave permanently.
 
 
-**If you experience abuse, harassment, discrimination, or feel unsafe, let a moderator know. Here is a list of the current moderators and their Slack IDs:**
+**If you experience abuse, harassment, discrimination, or feel unsafe, let an operator know. Here is a list of the current operators:**
 
-* Joe Fabisevich - @mergesort
-* Mike Lazer Walker - @lazerwalker
-* Tom Catterall - @swizzlr
+* Nick Quaranto - [@qrush](mailto:nick+pickaxe@quaran.to)
 
-*The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
+*The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the chat room or on the server unless it is required as a result of a discussed dispute.*
