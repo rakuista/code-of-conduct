@@ -1,6 +1,6 @@
 *This policy is a "living" document, and subject to refinement and expansion in the future.*
 
-**Pickaxe.club** (Minecraft server, Slack chat room) community should be a safe place for everybody regardless of
+**Learn Rails** (Slack chat room, GitHub Organization) community should be a safe place for everybody regardless of
 
 - gender, gender identity or gender expression 
 - sexual orientation
@@ -46,9 +46,9 @@ Failing to follow the community guidelines as described in this document carries
 
 **If you experience abuse, harassment, discrimination, or feel unsafe, let an operator know. Here is a list of the current operators (with in game handles):**
 
-* Nick Quaranto - [qrush](mailto:nick+pickaxe@quaran.to)
-* Joshua Kovach - [shekibobo](mailto:kovach.jc@gmail.com)
-* Karen Cravens - [tyrosinase](mailto:silver@phoenyx.net)
-* Jon Yurek - [jyurek](mailto:jyurek@thoughtbot.com)
+* Sean Oldham - [seanosaur](mailto:seanosaur@me.com)
+* Mike Rickert  - [mike](mailto:)
+* Daniel Climent - [4xposed](mailto:)
+* Daniel McMahon - [mcmahoniel](mailto:)
 
 *The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the chat room or on the server unless it is required as a result of a discussed dispute.*
