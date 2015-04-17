@@ -49,6 +49,6 @@ Failing to follow the community guidelines as described in this document carries
 * Sean Oldham - [seanosaur](mailto:seanosaur@me.com)
 * Mike Rickert  - [mike](mailto:)
 * Daniel Climent - [4xposed](mailto:)
-* Daniel McMahon - [mcmahoniel](mailto:)
+* Daniel McMahon - [mcmahoniel](mailto:daniel@danieljamesmcmahon.com)
 
 *The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the chat room or on the server unless it is required as a result of a discussed dispute.*
