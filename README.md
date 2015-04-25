@@ -46,9 +46,9 @@ Failing to follow the community guidelines as described in this document carries
 
 **If you experience abuse, harassment, discrimination, or feel unsafe, let an operator know. Here is a list of the current operators and their Slack IDs:**
 
-* Sean Oldham - [@seanosaur](mailto:seanosaur@me.com)
-* Mike Rickert  - [@mike](mailto:)
-* Daniel Climent - [@4xposed](mailto:)
-* Daniel McMahon - [@mcmahoniel](mailto:daniel@danieljamesmcmahon.com)
+* Sean Oldham - @seanosaur
+* Mike Rickert  - @mike
+* Daniel Climent - @4xposed
+* Daniel McMahon - @mcmahoniel
 
 *The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the chat room or on the server unless it is required as a result of a discussed dispute.*
