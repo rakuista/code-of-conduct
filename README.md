@@ -1,6 +1,6 @@
 *This policy is a "living" document, and subject to refinement and expansion in the future.*
 
-**Learn Web Development** (Slack chat room, GitHub Organization) community should be a safe place for everybody regardless of
+The **Learn Web Development** (Slack chat room, GitHub Organization) community should be a safe place for everybody regardless of
 
 - gender, gender identity or gender expression 
 - sexual orientation
@@ -51,4 +51,4 @@ Failing to follow the community guidelines as described in this document carries
 * Daniel Climent - @4xposed
 * Daniel McMahon - @mcmahoniel
 
-*The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the chat room or on the server unless it is required as a result of a discussed dispute.*
+*The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the chat room unless it is required as a result of a discussed dispute.*
