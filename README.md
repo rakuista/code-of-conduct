@@ -31,6 +31,7 @@ We condemn:
 * Stalking, doxxing, or publishing private information
 * Threats of harm, harassment
 * Anything that compromises people’s safety
+* Posting of illegal content
 
 **These things are NOT OK.**
 
