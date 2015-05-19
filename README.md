@@ -51,5 +51,6 @@ Failing to follow the community guidelines as described in this document carries
 * Mike Rickert  - @mike
 * Daniel Climent - @4xposed
 * Daniel McMahon - @mcmahoniel
+* Paul Straw - @paulstraw
 
 *The role of the moderators is to be an unbiased mediator, they will not moderate or edit anything written in the chat room unless it is required as a result of a discussed dispute.*
