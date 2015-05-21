@@ -1,4 +1,4 @@
-### *This policy is a "living" document, and subject to refinement and expansion in the future.*
+*This policy is a "living" document, and subject to refinement and expansion in the future.*
 
 The **slashrocket** (Slack chat room, GitHub Organization) community should be a safe place for everybody regardless of
 
