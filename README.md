@@ -2,7 +2,7 @@
 
 The "imgix-community" Slack chat room should be a safe place for everyone, regardless of
 
-- gender, gender identity or gender expression
+- gender, gender identity, or gender expression
 - sexual orientation
 - disability
 - physical appearance (including but not limited to body size)
