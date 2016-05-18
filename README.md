@@ -30,14 +30,6 @@ Harassment includes:
 * Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect other imgix community members or other vulnerable people from intentional abuse
 * Publication of non-harassing private communication
 
-The imgix community prioritizes marginalized people’s safety over privileged people’s comfort. The imgix Anti-Abuse Team will not act on complaints regarding:
-
-* ‘Reverse’ -isms, including ‘reverse racism,’ ‘reverse sexism,’ and ‘cisphobia’
-* Reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you.”
-* Refusal to explain or debate social justice concepts
-* Communicating in a ‘tone’ you don’t find congenial
-* Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
-
 
 ## Reporting
 
